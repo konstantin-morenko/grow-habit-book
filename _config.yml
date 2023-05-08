@@ -1,0 +1,12 @@
+remote_theme: konstantin-morenko/just-the-docs-reborn
+
+title: Шаблон
+description: Шаблон
+
+aux_links:
+  "Константин Моренко":
+    - "https://konstantin-morenko.ru"
+
+ycnumber: 69954367
+# mathjax: true
+# title_font_size: 18px
